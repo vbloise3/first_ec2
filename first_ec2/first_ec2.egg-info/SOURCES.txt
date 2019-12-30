@@ -1,0 +1,7 @@
+README.md
+setup.py
+first_ec2/first_ec2.egg-info/PKG-INFO
+first_ec2/first_ec2.egg-info/SOURCES.txt
+first_ec2/first_ec2.egg-info/dependency_links.txt
+first_ec2/first_ec2.egg-info/requires.txt
+first_ec2/first_ec2.egg-info/top_level.txt
